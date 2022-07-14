@@ -1,2 +1,2 @@
-# zio-demo
-Demo about ZIO library
+# type-level-demo
+
